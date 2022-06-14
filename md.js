@@ -1652,7 +1652,7 @@ if (!isRegistered) return replyReg(api.verif)
 if (isBan) return reply(api.ban)
 reply(api.wait)
 fdy = await fetchJson(`https://kirbotz-api.herokuapp.com/api/random/asupan/${command}?apikey=${kirkey}`)
-kirbotz.sendMessage(from, { video : { url: fdy.result.url }}, { quoted: m })
+sock.sendMessage(from, { video : { url: fdy.result.url }}, { quoted: m })
 }
 addCmd(command.slice(0), 1, commund)
 break
