@@ -1,9 +1,9 @@
 const { modul } = require('../Edit/module');
 const { chalk, fs, proces } = modul;
 
-global.ownerNumber = ["62881036690566@s.whatsapp.net"]
-global.namabotnya = 'BloodSword'
-global.namaownernya = 'Zakky'
+global.ownerNumber = ["6285791677204@s.whatsapp.net"]
+global.namabotnya = 'FauzyBOTZ - MD'
+global.namaownernya = 'Fauzi'
 global.packname = '\n\n\n\n\n\n\n\n\n\n© BloodSword||+62🇲🇨\nI`m From Indonesia\n\n\n\n\n\n\n\n\n\n'
 global.author = '\n\n\n\n\n\n\n\n\n\nWa : 0881-0366-90566\nIG: @demo_ngki\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'kirbotz'
@@ -15,7 +15,7 @@ global.group = 'https://kepoanjing'
 global.youtube = 'https://kepoanjing'
 global.website = 'https://kepoanjing'
 global.github = 'https://kepoanjing'
-global.noown = 'https://wa.me/62881036690566'
+global.noown = 'https://wa.me/6285791677204'
 global.region = 'I`m From Indonesia'
 global.prefa = ['','!','.','#','-','•']
 global.api = 
